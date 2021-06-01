@@ -1,16 +1,18 @@
-### Hello world!  👋
+# Umesh U
 
-<!--
-**umesh660/umesh660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Umesh U, I'm a software engineer at Advith Consulting LLp 👨‍💻 who is passionate about web technologies and open source. 
+🏄‍♂️. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning react
+- 💬 Ask me about: tech, cricket 
+- 😄 Pronouns: he/him
+-  ⚡ Languages: Java , javaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+---
+⭐ From [Umesh](https://github.com/umesh660)
