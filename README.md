@@ -1,14 +1,15 @@
 # Umesh U
 
 ## Hi 👋, 
-I'm Umesh U, I'm a software engineer at Advith Consulting LLp 👨‍💻 who is passionate about web technologies and open source. 
+I'm Umesh U, I'm Business Analyst at eTutorworld Corporation 👨‍💻 who is passionate about Data and open source. 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning react
-- 💬 Ask me about: tech, cricket 
-- 😄 Pronouns: he/him
--  ⚡ Languages: Java , javaScript
+-I’m currently working on web development
+-I’m currently learning react
+-Ask me about: tech, cricket 
+-Pronouns: he/him
+-Languages: Python, MySQL
+-Visualization Tools: Power BI.
 
 
 
