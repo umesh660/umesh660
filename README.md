@@ -1,7 +1,7 @@
 # Umesh U
 
 ## Hi 👋, 
-I'm Umesh U, I'm Business Analyst at eTutorworld Corporation 👨‍💻 who is passionate about Data and open source. 
+I'm Umesh U, I'm Business Analyst at Repyute Networks 👨‍💻 who is passionate about Data and open source. 
 🏄‍♂️. 
 
 -I’m currently working on web development
