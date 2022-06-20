@@ -5,10 +5,10 @@ I'm Umesh U, I'm Business Analyst at Repyute Networks 👨‍💻 who is passion
 🏄‍♂️. 
 
 -I’m currently working on web development
--I’m currently learning react
+-I’m currently learning Python and Java
 -Ask me about: tech, cricket 
 -Pronouns: he/him
--Languages: Python, MySQL
+-Languages: Python, MySQL, Java
 -Visualization Tools: Power BI.
 
 
