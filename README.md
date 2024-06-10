@@ -17,7 +17,7 @@ I enjoy learning new technologies and exploring tech.
 <p align="left">
 <a href="https://www.linkedin.com/in/indrajeet-1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet1103" height="30" width="40" /></a>
 <a href="https://medium.com/@officio.indrajeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@officio.indrajeet" height="30" width="40" /></a>
-<a href="https://leetcode.com/indra47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uddarumesh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/uddarumesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uddarumesh" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" width="50" /></a>
 </p>
 
