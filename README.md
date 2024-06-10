@@ -22,9 +22,9 @@ I enjoy learning new technologies and exploring tech.
 
 
 <!-- Tech Stack -->
-<!-- <h2 align="center">Tech Stack <img src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/laptop.gif" width="50"></h2> -->
+<h2 align="center">Tech Stack <img src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/laptop.gif" width="50"></h2>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -37,7 +37,19 @@ I enjoy learning new technologies and exploring tech.
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p> -->
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r"/>
+<img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib"/>
+<img src="https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras"/>
+<img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter"/>
+<img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau"/>
+<img src="https://img.shields.io/badge/-Power_BI-black?style=flat-square&logo=power-bi"/>
+</p>
+
 
 <!-- ### Languages and Tools: -->
 <h2 align="left">Languages and Tools:</h2>
