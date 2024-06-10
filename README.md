@@ -1,17 +1,17 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Indrajeet Kumar</h1>
-<h3 align="center"> Software Development Engineer | Java Developer </h3>
+<h1 align="center">Hi 👋, I'm Umesh Uddar</h1>
+<h3 align="center"> Data Scientist </h3>
 
-📍I am from India, currently, I am living in Dublin, Ireland and I do Full Stack development.
+📍I am from India, currently, I am living in Southampton, UK.
 I enjoy learning new technologies and exploring tech. 
 
 
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning devops and exploring the Spring framework family.
-- 📫 Reach me @ officio.indrajeet@gmail.com
-- ⚡ Portfolio website : https://officio-indrajeet.github.io/🧊 😸
+- 🔭 I’m working on Building deeplearning models.
+- 🌱 I’m currently learning LLM.
+- 📫 Reach me @ umeahuddar1997@gmail.com
+- ⚡ Portfolio website : http://umesh660.github.io/🧊 😸
 
 <i><h3 align="left">Connect with me:</h3></i>
 <p align="left">
